@@ -1,0 +1,41 @@
+.module-screen {
+  background: radial-gradient(circle at 50% 0, #3a4e9c, #151b50 70%);
+}
+.module-grid {
+  display: grid;
+  gap: 22px;
+  width: min(900px, calc(100% - 32px));
+  margin: clamp(25px, 7vh, 70px) auto;
+}
+.module-card {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 22px;
+  align-items: center;
+  text-align: left;
+  padding: 28px;
+  border-radius: 30px;
+  color: #fff;
+  border: 3px solid #ffffff48;
+  box-shadow: 0 14px 28px #060a2d66;
+}
+.module-card > span { font-size: 72px; }
+.module-card small { font-weight: 1000; letter-spacing: .13em; }
+.module-card h2 { font-size: 32px; margin: 5px 0; }
+.module-card p { margin: 0; color: #fff; opacity: .9; font-weight: 750; }
+.module-card > b { font-size: 58px; }
+.module-card.early { background: linear-gradient(135deg, #28cda4, #168bb9); }
+.module-card.school { background: linear-gradient(135deg, #ff9d2d, #e14c67); }
+.gamebar .repeat { display: none; }
+.game-screen.early-mode .repeat { display: block; }
+.answer { touch-action: manipulation; }
+.answer:focus-visible,
+.module-card:focus-visible { outline: 5px solid #ffe05b; outline-offset: 3px; }
+@media (max-width: 720px) {
+  .module-card { padding: 20px 17px; gap: 13px; }
+  .module-card > span { font-size: 50px; }
+  .module-card h2 { font-size: 24px; }
+  .hearts { display: none; }
+  .gamebar { gap: 8px; }
+  .gamebar .round { width: 46px; height: 46px; }
+}

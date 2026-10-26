@@ -1,13 +1,19 @@
 # DinoAcademy
 
-Jogo educativo oficial para crianças a partir dos 5 anos, distribuído através da plataforma [DinoPlay](https://rjcferreira.github.io/dino-color-quiz/).
+Jogo educativo oficial para crianças dos 3 aos 7 anos, distribuído através da plataforma [DinoPlay](https://rjcferreira.github.io/DinoPlay/).
 
 ## Conteúdo
 
-- 30 desafios em seis mundos: números, letras, lógica, memória, formas e natureza.
+- Módulo 1, dos 3 aos 5 anos: aprendizagem visual e oral, com instruções faladas e atividades sem dependência da leitura.
+- Módulo 2, dos 6 aos 7 anos: iniciação à leitura, números, adição, subtração, padrões e resolução de problemas.
+- 60 desafios em seis mundos: números, letras, lógica, memória, formas e natureza.
 - Português de Portugal, português do Brasil, inglês, francês, alemão, espanhol e polaco.
 - Progresso guardado pelo SDK do DinoPlay.
 - Totalmente offline e sem publicidade, compras, rastreio ou ligações externas.
+
+## Base pedagógica
+
+As atividades foram organizadas com base nas Orientações Curriculares para a Educação Pré-Escolar e nas Aprendizagens Essenciais do 1.º ano da Direção-Geral da Educação. O jogo é um apoio lúdico e não substitui o acompanhamento de responsáveis e educadores.
 
 ## Desenvolvimento local
 
