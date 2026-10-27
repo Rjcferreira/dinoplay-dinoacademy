@@ -1,5 +1,14 @@
 # DinoAcademy
 
+## Módulo 3–5 anos
+
+- Cada nível contém 15 exercícios diferentes, sempre com uma única instrução por ecrã.
+- Os conteúdos usam a posição global do exercício para evitar repetir os desafios dos níveis anteriores.
+- Números de 0 a 9 e letras de A a Z apresentados individualmente.
+- Alternância entre traçar, reconhecer, contar, pintar, ordenar, memorizar e associar.
+- Apenas duas respostas visuais nas atividades de escolha.
+- Narração automática lenta e calma, escolhendo a voz natural disponível no dispositivo.
+
 Jogo educativo oficial para crianças dos 3 aos 7 anos, distribuído através da plataforma [DinoPlay](https://rjcferreira.github.io/DinoPlay/).
 
 ## Conteúdo
