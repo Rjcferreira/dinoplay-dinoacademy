@@ -4,6 +4,8 @@
 
 - Cada nível contém 15 exercícios diferentes, sempre com uma única instrução por ecrã.
 - Os conteúdos usam a posição global do exercício para evitar repetir os desafios dos níveis anteriores.
+- Cada nível segue uma lição manual com 15 exercícios numa ordem pedagógica própria.
+- As respostas podem trocar de posição, mas o objetivo educativo de cada exercício permanece controlado.
 - Números de 0 a 9 e letras de A a Z apresentados individualmente.
 - Alternância entre traçar, reconhecer, contar, pintar, ordenar, memorizar e associar.
 - Apenas duas respostas visuais nas atividades de escolha.

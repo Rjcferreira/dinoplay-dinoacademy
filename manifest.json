@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "dinoacademy",
   "name": "DinoAcademy",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "entry": "index.html",
   "category": "learn",
   "age": "3+",
